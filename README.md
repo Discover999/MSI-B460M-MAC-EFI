@@ -30,6 +30,7 @@ macOS version:  Monterey 12.1
 ## 已知BUG
 
 * AX200 无线可用，蓝牙无法驱动
+* 可正常睡眠唤醒
 
 
 
