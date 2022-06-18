@@ -27,9 +27,9 @@ macOS version:  Monterey 12.1
 
 
 
-## BUG
+## 已知BUG
 
-*AX200 无线能用，蓝牙无法驱动
+* AX200 无线能用，蓝牙无法驱动
 
 
 
